@@ -4,8 +4,8 @@ TOOLS USED:
 1) Microsoft EXCEL
 2) Tableau Desktop
 
-The main aim of the project gather the data, clean and process the data using excel. Finally create Dashboard using Tableau Desktop.
 
+The main aim of the project gather the data, clean and process the data using excel. Finally create Dashboard using Tableau Desktop.
 --Gathered business requirements from stakeholders
 --Pre-processed the dataset by,
 
